@@ -29,11 +29,10 @@ Participación en proyectos de análisis y transformación de datos, incluyendo:
 
 ## 🧠 Qué hago
 
-- Desarrollo dashboards estratégicos (Power BI y Tableau).
+- Elaboración de dashboards ejecutivos usando data histórica (Power BI y Tableau).
 - Modelado y transformación de datos para análisis (SQL).
 - Pruebas de hipótesis y validación estadística (R).
-- Análisis de comportamiento y segmentación (Power BI, Pyhton y Tableau).
-- Elaboración de dashboards ejecutivos usando data histórica (Power BI y Tableau).
+- Análisis de comportamiento y segmentación (Power BI, Python y Tableau).
 
 **Metodología**
 - Análisis exploratorio de datos (EDA)
@@ -109,7 +108,8 @@ En este repositorio comparto proyectos enfocados en:
 - Desarrollar proyectos analíticos integrando análisis estadístico, modelado de datos y visualización.
 - Profundizar mis habilidades técnicas en análisis de datos y BI.
 - Fortalecer mi capacidad en modelado estadístico y análisis cuantitativo.
-- Progresar profesionalmente en el área de análisis de datos e inteligencia de negocios, consolidando competencias técnicas y analíticas como pensamiento crítico, razonamiento cuantitativo, análisis estructurado y visión estratégica.- Mejora constante en modelado de datos y optimización de consultas.
+- Progresar profesionalmente en el área de análisis de datos e inteligencia de negocios, consolidando competencias técnicas y analíticas como pensamiento crítico, razonamiento cuantitativo, análisis estructurado y visión estratégica.
+- - Mejora constante en modelado de datos y optimización de consultas.
 - Diseño avanzado de dashboards.
 - Mejores prácticas en documentación y estructuración de proyectos.
 - Construir un portafolio sólido y profesional.
