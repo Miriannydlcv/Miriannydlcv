@@ -109,7 +109,7 @@ En este repositorio comparto proyectos enfocados en:
 - Profundizar mis habilidades técnicas en análisis de datos y BI.
 - Fortalecer mi capacidad en modelado estadístico y análisis cuantitativo.
 - Progresar profesionalmente en el área de análisis de datos e inteligencia de negocios, consolidando competencias técnicas y analíticas como pensamiento crítico, razonamiento cuantitativo, análisis estructurado y visión estratégica.
-- - Mejora constante en modelado de datos y optimización de consultas.
+- Mejora constante en modelado de datos y optimización de consultas.
 - Diseño avanzado de dashboards.
 - Mejores prácticas en documentación y estructuración de proyectos.
 - Construir un portafolio sólido y profesional.
