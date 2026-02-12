@@ -12,7 +12,7 @@
 
 Profesional orientada al análisis de datos y la inteligencia de negocios, con experiencia en entornos corporativos y consultoría. Me enfoco en transformar información en análisis estructurados y modelos interpretativos que apoyen la toma de decisiones basadas en datos; combinando modelado de datos, análisis estadístico y visualización.
 
-Tengo experiencia trabajando con datos financieros y operativos, desarrollando dashboards, análisis comparativos y evaluaciones cuantitativas que permiten entender dinámicas de mercado y comportamiento de clientes.
+Experiencia trabajando con datos financieros y operativos, desarrollando dashboards, análisis comparativos y evaluaciones que permiten entender dinámicas de mercado y comportamiento de clientes.
 
 ---
 
