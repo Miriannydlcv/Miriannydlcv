@@ -8,7 +8,7 @@
 
 ---
 
-## 👩🏻‍💻 Sobre mí
+## Sobre mí
 
 Profesional orientada al análisis de datos y la inteligencia de negocios, con experiencia en entornos corporativos y consultoría. Me enfoco en transformar información en análisis estructurados y modelos interpretativos que apoyen la toma de decisiones basadas en datos; combinando modelado de datos, análisis estadístico y visualización.
 
@@ -16,7 +16,7 @@ Experiencia trabajando con datos financieros y operativos, desarrollando dashboa
 
 ---
 
-## 💼 Experiencia
+## Experiencia
 
 **EY – Business Consulting (FSO)**  
 Participación en proyectos de análisis y transformación de datos, incluyendo:
@@ -27,7 +27,7 @@ Participación en proyectos de análisis y transformación de datos, incluyendo:
 
 ---
 
-## 🧠 Qué hago
+## Qué hago
 
 - Elaboración de dashboards ejecutivos usando data histórica (Power BI y Tableau).
 - Modelado y transformación de datos para análisis (SQL).
@@ -44,7 +44,7 @@ Participación en proyectos de análisis y transformación de datos, incluyendo:
 
 ---
 
-## 🛠️ Herramientas y Aplicaciones
+## Herramientas y Aplicaciones
 
 **Lenguajes**
 
@@ -91,7 +91,7 @@ Participación en proyectos de análisis y transformación de datos, incluyendo:
   
 ---
 
-## 📊 Proyectos
+## Proyectos
 
 En este repositorio comparto proyectos enfocados en:
 
@@ -103,7 +103,7 @@ En este repositorio comparto proyectos enfocados en:
 
 ---
 
-## 🎯 Enfoque actual
+## Enfoque actual
 
 - Desarrollar proyectos analíticos integrando análisis estadístico, modelado de datos y visualización.
 - Profundizar mis habilidades técnicas en análisis de datos y BI.
@@ -116,7 +116,7 @@ En este repositorio comparto proyectos enfocados en:
 
 ---
 
-## 🌐 Idiomas
+## Idiomas
 - Español – Nativo  
 - Inglés – B2 
  
