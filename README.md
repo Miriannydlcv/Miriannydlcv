@@ -122,7 +122,7 @@ En este repositorio comparto proyectos enfocados en:
  
 ---
 
-## 📩 Contacto
+## Contacto
 
 Estoy abierta a oportunidades profesionales, colaboración en proyectos analíticos y espacios de crecimiento en el área de datos y BI.
 Puedes conectar conmigo vía [LinkedIn](https://linkedin.com/in/mirianny-de-la-cruz-ventura-a45356273/) o [Correo](miriannyventura02@gmail.com)
