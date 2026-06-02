@@ -1,6 +1,6 @@
 # Mirianny De La Cruz Ventura
 
-**Data Analyst | Business Intelligence**
+**Data Analytics | Business Intelligence**
 
 📍 República Dominicana  
 📧 miriannyventura02@gmail.com 
@@ -10,37 +10,34 @@
 
 ## Sobre mí
 
-Profesional orientada al análisis de datos y la inteligencia de negocios, con experiencia en entornos corporativos y consultoría. Me enfoco en transformar información en análisis estructurados y modelos interpretativos que apoyen la toma de decisiones basadas en datos; combinando modelado de datos, análisis estadístico y visualización.
-
-Experiencia trabajando con datos financieros y operativos, desarrollando dashboards, análisis comparativos y evaluaciones que permiten entender dinámicas de mercado y comportamiento de clientes.
+Experiencia en análisis de datos y Business Intelligence en entornos corporativos y de consultoría, participando en procesos de exploración, análisis y visualización de datos mediante SQL, Python, Tableau y Power BI. Desarrollo de dashboards y análisis orientados a la toma de decisiones, incluyendo la construcción e identificación de lógicas y métricas utilizadas en pricing, costo de fondeo, asignación de tasas, retanqueo, evolución del saldo (stock) y comportamiento de cartera, en colaboración con equipos técnicos y de negocio.
 
 ---
 
 ## Experiencia
 
-**EY – Business Consulting (FSO)**  
-Participación en proyectos de análisis y transformación de datos, incluyendo:
+**EY – Business Consulting (FSO)**
 
-- Análisis y estructuración de información para proyectos de pricing.
-- Diseño, construcción y documentación de dashboards en Tableau para clientes del sector financiero.
--  Documentación técnica y estructuración de entregables analíticos: historias de usuario y manuales de usuario para herramienta de pricing.
+Participación en proyectos de análisis y transformación de datos para entidades financieras de Centroamérica y el Caribe, enfocados en iniciativas de pricing, rentabilidad y toma de decisiones basada en datos.
 
+- Procesamiento y análisis de grandes volúmenes de información mediante SQL para identificar patrones, tendencias e insights utilizados en talleres estratégicos de pricing.
+- Diseño, construcción y documentación de dashboards en Tableau para el análisis de campañas, desembolsos, descuentos, desempeño comercial y comportamiento de cartera.
+- Construcción y validación de lógicas de negocio y métricas analíticas relacionadas con pricing, costo de fondeo, asignación de tasas, retanqueo, evolución del saldo (stock) y segmentación de clientes.
+- Documentación técnica de estructuras de datos, métricas y procesos analíticos para facilitar la transferencia de conocimiento y la continuidad de los proyectos.
+- Apoyo funcional en herramienta de pricing mediante validación de funcionalidades, revisión de requerimientos, elaboración de manuales de usuario y materiales de capacitación.
 ---
 
 ## Qué hago
 
 - Elaboración de dashboards ejecutivos usando data histórica (Power BI y Tableau).
 - Modelado y transformación de datos para análisis (SQL).
-- Pruebas de hipótesis y validación estadística (R).
 - Análisis de comportamiento y segmentación (Power BI, Python y Tableau).
 
 **Metodología**
 - Análisis exploratorio de datos (EDA)
-- Pruebas de hipótesis
 - Modelado estadístico básico e intermedio
-- Limpieza y estructuración de datos
+- Limpieza de datos
 - Documentación técnica (Historias de usuario y manuales de usuario)
-- Automatización y flujos asistidos por IA (ChatGPT): generación y optimización de código DAX y consultas SQL.
 
 ---
 
@@ -57,22 +54,9 @@ Participación en proyectos de análisis y transformación de datos, incluyendo:
 ### Python
 - Análisis exploratorio de datos (EDA) y Análisis estadístico básico.
 - Limpieza, transformación y preparación de datos con pandas.
-- Automatización para procesos analíticos: integración de datos, limpieza, transformación y preparación para análisis estadístico o visualización.
 
 ### R
-- Pruebas de hipótesis (t-test, ANOVA, Correlación).
 - Visualización estadística para interpretación de resultados.
-
-### DAX
-- Tabla calendario y métricas comparativas por período.
-- Uso de funciones de contexto (CALCULATE, FILTER, ALL).
-- Medidas DAX para KPIs y medidas de tiempo (variaciones interanuales, intermensuales, mes-año y acumuladas; ajustadas a nivel mes, día, año según contexto y disponibilidad de la data).
-- Columnas calculadas, Segmentadores y parámetros para análisis dinámico.
-- Cálculo de ratios y métricas ponderadas.
-
- ### Power Query (M)
-- Limpieza y transformación de datos.
-- Creación de columnas derivadas y estandarización y tipificación de información.
 
 **Business Intelligence**
 
@@ -88,7 +72,17 @@ Participación en proyectos de análisis y transformación de datos, incluyendo:
 - Creación de medidas en DAX.
 - Diseño de dashboards y Storytelling
 - Análisis de comportamiento, métricas comparativas, tendencias y segmentación por perfil.
-  
+
+### DAX
+- Tabla calendario y métricas comparativas por período.
+- Uso de funciones de contexto (CALCULATE, FILTER, ALL).
+- Medidas DAX para KPIs y medidas de tiempo (variaciones interanuales, intermensuales, mes-año y acumuladas; ajustadas a nivel mes, día, año según contexto y disponibilidad de la data).
+- Columnas calculadas, Segmentadores y parámetros para análisis dinámico.
+- Cálculo de ratios y métricas ponderadas.
+
+ ### Power Query (M)
+- Limpieza y transformación de datos.
+- Creación de columnas derivadas y estandarización y tipificación de información.  
 ---
 
 ## Proyectos
@@ -98,21 +92,14 @@ En este repositorio comparto proyectos enfocados en:
 - Estudios de comportamiento y segmentación.
 - Modelos exploratorios para entender patrones y tendencias.
 - Dashboards interactivos para análisis financiero y operativo.
-- Evaluación de hipótesis mediante análisis estadístico.
-- Análisis estructural de datos utilizando SQL y Python para identificar patrones, relaciones y comportamientos relevantes.
+- Análisis estadístico básico e intermedio.
+- Análisis para identificar patrones, relaciones y comportamientos relevantes, utilizando SQL y Python .
 
 ---
 
 ## Enfoque actual
 
-- Desarrollar proyectos analíticos integrando análisis estadístico, modelado de datos y visualización.
-- Profundizar mis habilidades técnicas en análisis de datos y BI.
-- Fortalecer mi capacidad en modelado estadístico y análisis cuantitativo.
-- Progresar profesionalmente en el área de análisis de datos e inteligencia de negocios, consolidando competencias técnicas y analíticas como pensamiento crítico, razonamiento cuantitativo, análisis estructurado y visión estratégica.
-- Mejora constante en modelado de datos y optimización de consultas.
-- Diseño avanzado de dashboards.
-- Mejores prácticas en documentación y estructuración de proyectos.
-- Construir un portafolio sólido y profesional.
+Continuar desarrollándome en análisis de datos y Business Intelligence, profundizando en modelado de datos, análisis estadístico, optimización de consultas y visualización de información, participando en proyectos analíticos.
 
 ---
 
